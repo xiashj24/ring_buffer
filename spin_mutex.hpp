@@ -3,6 +3,7 @@
 /**
  * @brief spin lock, can be used as a drop-in replacement for std::mutex
  * @ref https://timur.audio/using-locks-in-real-time-audio-processing-safely
+ * @todo also take a look at juce::SpinLock
  */
 
 class spin_mutex
