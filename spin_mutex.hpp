@@ -3,6 +3,7 @@
 /**
  * @brief spin lock, can be used as a drop-in replacement for std::mutex
  * @ref https://timur.audio/using-locks-in-real-time-audio-processing-safely
+ * @ref https://rigtorp.se/spinlock/ for memory order
  * @todo also take a look at juce::SpinLock
  */
 
